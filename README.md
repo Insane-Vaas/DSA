@@ -3,7 +3,7 @@
 ## Algorithms
 
 ### Maintaining a Miscellaneous Class
-    we are maintaining a miscellaneous class for printing an array or other thing to manage code base.
+we are maintaining a miscellaneous class for printing an array or other thing to manage code base.
 
 ### 1. Sorting Algorithms
         1.1 Insertion Sort Algorithm

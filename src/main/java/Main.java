@@ -1,4 +1,4 @@
-import Sorting.InsertionSort;
+import Algorithms.Sorting.InsertionSort;
 
 public class Main {
 

@@ -41,8 +41,6 @@ public class SelectionSort {
             arr[i] = arr[min];
             arr[min] = d;
 
-            miscellaneousFunctions.printArr(arr);
-
         }
 
     }
